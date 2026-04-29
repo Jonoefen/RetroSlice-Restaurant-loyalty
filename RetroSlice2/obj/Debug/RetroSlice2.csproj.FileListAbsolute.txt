@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\RetroSlice2\bin\Debug\RetroSlice2.exe.config
+C:\Users\jonat\source\repos\RetroSlice2\bin\Debug\RetroSlice2.exe
+C:\Users\jonat\source\repos\RetroSlice2\bin\Debug\RetroSlice2.pdb
+C:\Users\jonat\source\repos\RetroSlice2\obj\Debug\RetroSlice2.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\RetroSlice2\obj\Debug\RetroSlice2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\RetroSlice2\obj\Debug\RetroSlice2.exe
+C:\Users\jonat\source\repos\RetroSlice2\obj\Debug\RetroSlice2.pdb
